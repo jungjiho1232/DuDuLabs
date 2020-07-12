@@ -1,17 +1,17 @@
 ## 👐 Thank you for visiting my Github.
 
-**Here are the things I can do (JAILBREAK):**
+**📱 Here are the things I can do (JAILBREAK):**
 
 - Unc0ver
 - Checkra1n
 
-**Here are the things I can do (DEVELOPMENT):**
+**💻 Here are the things I can do (DEVELOPMENT):**
 
 - Node.js
 - JavaScript
 - TypeScript
 
-**It's a way to get in touch with me:**
+**📫 It's a way to get in touch with me:**
 
 - Discord: 두곰#4015
 - FaceBook: [두곰](https://www.facebook.com/hg.aaqs1221/)
