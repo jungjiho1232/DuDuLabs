@@ -1,9 +1,9 @@
 ## 👐 Thank you for visiting my Github.
 
-**📱 Here are the things I can do (JAILBREAK):**
+**📱 Project:**
 
-- Unc0ver
-- Checkra1n
+- [Music-Bot](https://github.com/hgl-215/Music-Bot)
+- Dugom-Bot
 
 **💻 Here are the things I can do (DEVELOPMENT):**
 
