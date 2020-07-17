@@ -3,7 +3,7 @@
 **📱 Project:**
 
 - [Music-Bot](https://github.com/hgl-215/Music-Bot)
-- Dugom-Bot
+- [Dugom-Bot](https://github.com/hgl-215/Dugom-Bot)
 
 **💻 Here are the things I can do (DEVELOPMENT):**
 
