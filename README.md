@@ -5,12 +5,6 @@
 - [Music-Bot](https://github.com/hgl-215/Music-Bot)
 - [Dugom-Bot](https://github.com/hgl-215/Dugom-Bot)
 
-**💻 Here are the things I can do (DEVELOPMENT):**
-
-- Node.js
-- JavaScript
-- TypeScript
-
 **📫 It's a way to get in touch with me:**
 
 - Discord: 두곰#4015
