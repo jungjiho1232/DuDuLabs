@@ -1,9 +1,6 @@
 ## 👐 Thank you for visiting my Github.
 
-**📱 Project:**
-
-- [Music-Bot](https://github.com/hgl-215/Music-Bot)
-- [Dugom-Bot](https://github.com/hgl-215/Dugom-Bot)
+[![Total Stats](https://github-readme-stats.vercel.app/api?username=hgl-215&show_icons=true&theme=dark)](https://github.com/hgl-215)
 
 **📫 It's a way to get in touch with me:**
 
