@@ -7,4 +7,4 @@
 - Discord: DUGOM#4015
 - FaceBook: https://www.facebook.com/ejlkr
 - Instagram: https://www.instagram.com/ejlkr0215
-- Email: _hangom@kakao.com
+- Email: hi@ejlkr.ml
