@@ -5,6 +5,6 @@
 **📫 아래는 저와 연락할 수 있는 수단이예요:**
 
 - Discord: #4015
-- FaceBook: [한곰](https://www.facebook.com/ejlkr)
-- Instagram: [이은재](https://www.instagram.com/ejlkr0215)
-- Email: [_hangom@kakao.com](mailto:_hangom@kakao.com)
+- FaceBook: https://www.facebook.com/ejlkr
+- Instagram: https://www.instagram.com/ejlkr0215
+- Email: _hangom@kakao.com
