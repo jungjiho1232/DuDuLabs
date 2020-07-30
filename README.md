@@ -9,4 +9,6 @@ I'm Learning:
 Social Links:
 - [My Page](https://ejlkr.ml)
 
+My Github Stats:
+
 [![Total Stats](https://github-readme-stats.vercel.app/api?username=ejl-kr&show_icons=true&theme=dark)](https://github.com/ejl-kr)
