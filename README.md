@@ -2,7 +2,7 @@
 
 [![Total Stats](https://github-readme-stats.vercel.app/api?username=ejl-kr&show_icons=true&theme=dark)](https://github.com/ejl-kr)
 
-**🧵 자기소개:**
+### 🧵 자기소개:
 
 ```
 안녕하세요! 저는 디스코드에서 두곰이라는 별명으로 활동하고 있는 학생 개발자 이은재 입니다.
