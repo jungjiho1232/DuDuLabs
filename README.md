@@ -1,5 +1,5 @@
 ## Hi there! 👐
-There are many Korean student developer who want to do various things.
+I am a Korean student developer with a lot of things I want to do.
 
 I'm Learning:
 - Front-End
