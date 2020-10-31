@@ -1,4 +1,4 @@
-## ℹ 나는 누구인가요?
+## ℹ Who am I?
 
 ```js
 module.exports = {
