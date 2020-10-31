@@ -20,5 +20,5 @@ module.exports = {
         email: String "hi@ejlkr.ml"
     }
     
-    // README Source: jwkim101201/README.md
+// README Source: jwkim101201/README.md
 ```
