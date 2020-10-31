@@ -19,6 +19,7 @@ module.exports = {
         instagram: String "dg1212_",
         email: String "hi@ejlkr.ml"
     }
+}
     
 // README Source: jwkim101201/README.md
 ```
