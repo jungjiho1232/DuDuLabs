@@ -15,7 +15,7 @@ module.exports = {
     },
     
     contact: {
-        discord: String "DUGOM#0215",
+        discord: String "DUGOM#6273",
         instagram: String "dg1212_",
         email: String "hi@ejlkr.ml"
     }
