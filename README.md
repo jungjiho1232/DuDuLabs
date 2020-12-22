@@ -3,23 +3,25 @@
 ```js
 module.exports = {
     info: {
-        name: String "Dugom",
-        age: Number "12",
-        gender: String "man",
-        mbti: String "ENFP"
+        name: "Dugom",
+        age: 12,
+        gender: "man",
+        mbti: "ENFP"
     },
     
     skils: {
-        learning: Array ["TypeScript"],
-        languages: Array ["JavaScript", "Css3", "Html5"]
+        learning: [
+            "React"
+        ],
+        languages: [
+            "JavaScript",
+            "TypeScript"
+        ]
     },
     
     contact: {
-        discord: String "DUGOM#6273",
-        instagram: String "dg1212_",
-        email: String "hi@ejlkr.ml"
+        discord: "Dugom#6273",
+        email: "hi@ejlkr.ml"
     }
 }
-    
-// README Source: jwkim101201/README.md
 ```
