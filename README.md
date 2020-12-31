@@ -1,27 +1,2 @@
-## ℹ Who am I?
-
-```js
-module.exports = {
-    info: {
-        name: "Dugom",
-        age: 12,
-        gender: "man",
-        mbti: "ENFP"
-    },
-    
-    skils: {
-        learning: [
-            "React"
-        ],
-        languages: [
-            "JavaScript",
-            "TypeScript"
-        ]
-    },
-    
-    contact: {
-        discord: "Dugom#6273",
-        email: "hi@ejlkr.ml"
-    }
-}
-```
+<h3 align="center">안녕하세요 :)</h3>
+<p align="center">JavaScript/TypeScript 를 공부하는 학생 개발자 입니다.</p>
