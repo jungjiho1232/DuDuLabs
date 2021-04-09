@@ -1,3 +1,3 @@
 # 👋 Hello, It's Dugom!
 
-**[READ.CV](https://read.cv/dugom12)**
+**[[ READ.CV ]](https://read.cv/dugom12)**
