@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code_(Insider)-green?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
 ### Profile Page
-- **[[ READ.CV ]](https://read.cv/dugom12)**
+- **[[ READ.CV ]](https://read.cv/dugom)**
