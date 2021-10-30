@@ -6,3 +6,4 @@
 
 ### Profile Page
 - **[[ READ.CV ]](https://read.cv/dugom)**
+- **[[ PRFL.LINK ]](https://prfl.link/@dugom)**
